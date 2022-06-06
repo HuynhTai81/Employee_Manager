@@ -1,7 +1,7 @@
 # BÀI TẬP LỚN LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG
 + NHÓM 8
   - Họ và tên:
-      + Huỳnh Ngọc Tài ( Nhóm trưởng)
+      + Huỳnh Ngọc Tài
       + Phạm Chí Hùng
   - Lớp: Công nghệ thông tin khoá 61
 
